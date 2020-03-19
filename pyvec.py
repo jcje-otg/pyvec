@@ -1,6 +1,6 @@
 def add(a,b):
     return (a[0]+b[0], a[1]+b[1])
-
+print("lol")
 v1 = (1,2)
 v2 = (3,4)
 
