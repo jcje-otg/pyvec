@@ -10,5 +10,5 @@ v2 = (3,4)
 v3 = add(v1,v2)
 v4 = sub(v1,v2)
 
-print(v3)
-print(v4)
+print(v1,"+",v2,"=",v3)
+print(v1,"-",v2,"=",v4)
